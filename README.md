@@ -1,5 +1,5 @@
 ## ola eu sou Rafael Pinheiro
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje estudo  front-end
 - 🌱 Etudando fullstack
 - 📫 rafaelsp0584@gmail.com
 - 😄 Pronouns: Ele/dele
