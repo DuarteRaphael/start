@@ -1,6 +1,6 @@
 ## ola eu sou Rafael Pinheiro
-- 🔭 Hoje estudo  front-end
-- 🌱 Etudando fullstack
+- 🔭 Hoje estudo  Análise e Desenv. de Sistemas
+- 🌱 Programador fullstack jr
 - 📫 rafaelsp0584@gmail.com
 - 😄 Pronouns: Ele/dele
 - 
