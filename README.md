@@ -1,4 +1,4 @@
-## ola eu sou Rafael Pinheiro
+## Óla eu sou Rafael Pinheiro
 - 🔭 Hoje estudo  Análise e Desenv. de Sistemas
 - 🌱 Programador fullstack jr
 - 📫 rafaelsp0584@gmail.com
