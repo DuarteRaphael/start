@@ -27,9 +27,8 @@
   <a href="https://instagram.com/rafapinheiro97" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafaelsp0584@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- <!-- <a href = "https://www.linkedin.com/in/rafael-pinheiro-desenvolvedor/"><img src="https://img.shields.io/badge/:badgeContent?logo=LinkedIn&logoColor=blue">
-</a>-->
-   
+ 
+   <a href="https://www.linkedin.com/in/rafael-pinheiro-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
   
    ![Snake animation](https://github.com/rafaelpinheiro84/rafaelpinheiro84/blob/output/github-contribution-grid-snake.svg)
