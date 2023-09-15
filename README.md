@@ -1,9 +1,9 @@
-## Óla eu sou Rafael Pinheiro
+## Olá eu sou Rafael Pinheiro
 - 🔭 Hoje estudo  Análise e Desenv. de Sistemas
 - 🌱 Programador fullstack jr
 - 📫 rafaelsp0584@gmail.com
 - 😄 Pronouns: Ele/dele
-- 
+  
  <div>
   <a href="https://github.com/rafaelpinheiro84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpinheiro84&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
